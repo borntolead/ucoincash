@@ -1,0 +1,9 @@
+Building Ucoincash
+
+See doc/readme-qt.rst for instructions on building ucoincash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ucoincash.
+
+See doc/build-*.txt for instructions on building ucoincashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ucoincash.
