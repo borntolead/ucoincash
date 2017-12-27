@@ -29,21 +29,5 @@ A “Ucoin Cash wallet” is basically the Ucoin Cash Coin Account, which allows
 - You will get ucoincash.exe file, Install the wallet software by double click on ucoincash.exe file.
 - You can now send and receive Ucoin Cash Coin directly from Ucoin Cash Desktop Wallet and also use this wallet to stake Ucoin Cash Coin.
 
-<b> HOW TO SET UP UCOIN CASH COIN WALLET ON LINUX OPERATING SYSTEM?</b> 
-
-<b>Click here : https://ucoincash.co/coin-wallet/ucoincash-linux-qt.zip</b>
-
-- Open linux terminal and go to destination path of downloaded directory.
-- Unzip the wallets files using command unzip wallet_file.zip -d destination_folder.
-- execute the wallet file using command ./ucoincash-linux-qt.
-
-<b>HOW TO SET UP UCOIN CASH COIN WALLET ON MAC OS X OPERATING SYSTEM?</b>
-
-<b>Click here : https://ucoincash.co/coin-wallet/ucoincash-mac.zip</b>
-
-- Unzip the wallets files.
-- You will get ucoincash-qt.dmg file, Install the wallet software by double click on ucoincash-qt.dmg file.
-- You can now send and receive UcoinCash Coin directly from UcoinCash Desktop Wallet and also use this wallet to stake UcoinCash   Coin.
-
 
 
