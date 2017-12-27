@@ -1,4 +1,4 @@
-#General Introduction of Ucoincashcoin
+#General Introduction of Ucoin Cash coin
 Ucoin Cash Coin is a secure and energy efficient PoW/PoS coin. Ucoin Cash Coin uses a faster PoW distribution mechanism to distribute the initial coins, then after few days the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
 
 #Ucoin Cash Coin Specification
